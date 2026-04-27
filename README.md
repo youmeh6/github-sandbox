@@ -106,7 +106,3 @@ After committing, you can monitor the workflow:
 - Separate multiple URLs with spaces
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
 - If no valid `download:` or `download-zip:` command is found in the commit message, the workflow will exit without doing anything
-
-
-
-
